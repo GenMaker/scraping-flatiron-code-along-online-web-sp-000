@@ -42,6 +42,7 @@ class Scraper
   end
 
 end
+
 # Scraper.new.get_page #grabs page
 # doc.css(".post") # collection of course offerings
 # doc.css(".post").first # first course offering
